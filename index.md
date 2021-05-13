@@ -1,19 +1,23 @@
-# Portfolio
+# Data Science Portfolio
 
 ---
 
-## Data Science Projects 
+## Professional Projects 
 
-[Project 1 Title](/sample_page)
+### [Building Energy Forecasting](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### [Time Series Analysis of Energy Management System](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+
+## Personal Projects 
+
+### [Kaggle: TBU](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 <!-- 
 ---
