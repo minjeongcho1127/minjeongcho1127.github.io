@@ -4,12 +4,12 @@
 
 ## Professional Projects 
 
-### [Building Energy Forecasting](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Building Energy Forecasting: TBU](/sample_page)
+<!--  <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
-### [Time Series Analysis of Energy Management System](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Time Series Analysis of Energy Management System: TBU](/pdf/sample_presentation.pdf)
+<!--  <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
 ---
 
