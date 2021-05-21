@@ -16,7 +16,7 @@
 ## Personal Projects 
 
 ### [What contributes to the success of Disney movies?](https://minjeongcho1127.github.io/notebooks/Disney-Movies-and-Box-Office-Success.html)
-<img src="images/disney_10by10.jpg?raw=true"/>
+<img src="images/disney_10by10.png?raw=true"/>
 
 ### [Predicting Credit Card Approvals](https://minjeongcho1127.github.io/notebooks/Predicting-Credit-Card-Approvals.html)
 <img src="images/credit_card_10by10.jpg?raw=true"/>
