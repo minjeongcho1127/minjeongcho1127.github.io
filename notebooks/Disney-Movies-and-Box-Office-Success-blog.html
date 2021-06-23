@@ -13077,10 +13077,10 @@ div#notebook {
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="What-contributes-to-the-success-of-Disney-movies?">What contributes to the success of Disney movies?<a class="anchor-link" href="#What-contributes-to-the-success-of-Disney-movies?">&#182;</a></h1><p><img src="disney_10by10.png" alt="image"></p>
+<h1 id="What-contributes-to-the-success-of-Disney-movies?">What contributes to the success of Disney movies?<a class="anchor-link" href="#What-contributes-to-the-success-of-Disney-movies?">&#182;</a></h1><p><img src="https://minjeongcho1127.github.io/images/disney_10by10.png" alt="image"></p>
 <p>Are you one of those kids who grew up with all the Disney movies? I'm one of many Disney fans, and my favorite Disney movie growing up was Cinderella. As a huge fan of Disney movies, I'd like to explore the factors that contributed to the success of Disney movies.</p>
 <p>The <a href="https://data.world/kgarrett/disney-character-success-00-16">Disney movie dataset</a> was compiled by Kelly Garrett, which contains 579 Disney movies with 6 features: movie title, release date, genre, MPAA rating, total gross, and inflation-adjusted gross. Below is the sample of the dataset:</p>
-<p><img src="dataset.png" alt="Drawing" style="width: 800px;"/></p>
+<p><img src="https://minjeongcho1127.github.io/images/disney_dataset.png" alt="Drawing" style="width: 800px;"/></p>
 <p>Using the dataset, I'd like to figure out the relationship between Disney movies and Box Office Success by answering these questions:</p>
 <ol>
 <li>What are the Top 10 Disney Movies in the Box Office?</li>
@@ -13090,15 +13090,15 @@ div#notebook {
 <h3 id="1.-What-are-the-Top-10-Disney-Movies-in-the-Box-Office?">1. What are the Top 10 Disney Movies in the Box Office?<a class="anchor-link" href="#1.-What-are-the-Top-10-Disney-Movies-in-the-Box-Office?">&#182;</a></h3><ul>
 <li>To answer this question, I sorted movies by their inflation-adjusted gross in descending order and displayed the top 10 movies as shown below. Snow White and the Seven Dwarfs is the most successful movie to date!</li>
 </ul>
-<p><img src="top10.png" alt="Drawing" style="width: 800px;"/></p>
+<p><img src="https://minjeongcho1127.github.io/images/disney_top10.png" alt="Drawing" style="width: 800px;"/></p>
 <h3 id="2.-How-are-the-popular-trends-in-the-movie-genre-changing?">2. How are the popular trends in the movie genre changing?<a class="anchor-link" href="#2.-How-are-the-popular-trends-in-the-movie-genre-changing?">&#182;</a></h3><ul>
 <li>To answer this question, firstly I grouped movies by genre and then by year to see the adjusted gross of each genre in each year as shown below.</li>
 </ul>
-<p><img src="genre_yearly.png" alt="Drawing" style="width: 430px;"/></p>
+<p><img src="https://minjeongcho1127.github.io/images/disney_genre_yearly.png" alt="Drawing" style="width: 430px;"/></p>
 <ul>
 <li>Then, I plotted the inflation-adjusted gross with respect to the release year for each genre to see how box office revenue changed over time. The graph below is an enlarged view of the graph after 2006. Action and Adventure genres are growing the fastest!</li>
 </ul>
-<p><img src="output_lineplot.png" alt="Drawing" style="width: 1000px;"/></p>
+<p><img src="https://minjeongcho1127.github.io/images/disney_output_lineplot.png" alt="Drawing" style="width: 1000px;"/></p>
 <h3 id="3.-What-is-the-relationship-between-movie-genre-and-Box-Office-gross?">3. What is the relationship between movie genre and Box Office gross?<a class="anchor-link" href="#3.-What-is-the-relationship-between-movie-genre-and-Box-Office-gross?">&#182;</a></h3><ul>
 <li><p>To answer this question, I built a linear regression model to investigate the relationship between genre and box office gross. From the regression model, the effect of each genre can be checked by looking at its coefficient in units of box office gross dollars. Especially, the intercept and the first coefficient values represent the effect of Action and Adventure genres, respectively.</p>
 </li>
