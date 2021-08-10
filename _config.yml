@@ -3,6 +3,7 @@ logo: "/images/minjeong.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
   <a href="https://www.linkedin.com/in/minjeong-cho/">View My LinkedIn Profile</a> 
+  I’m a research data scientist passionate about building machine learning and statistical forecasting models. My projects include demand forecasting models for building energy, wind power, solar energy, and electricity. I’m excited to combine my scientific domain knowledge of fluids, heat, and energy with my data science skills to solve real-world problems.
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
