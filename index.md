@@ -4,23 +4,35 @@
 
 ## Professional Projects 
 
-### [Building Energy Forecasting: TBU](/sample_page)
+### [Building Energy Forecasting](/sample_page)
 <!--  <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
-
+- Built machine learning models (Random Forest and LSTM) for building energy demand forecasting
+- Improved the accuracy of existing models by up to 10% by leveraging new data sets and tuning parameters
+- Tools: SQL, Python, Docker, Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib
 ---
-### [Time Series Analysis of Energy Management System: TBU](/pdf/sample_presentation.pdf)
+### [Renewable Energy and Electricity Demand Forecasting](/sample_page)
+- Built machine learning models (Gradient Boosting and Random Forest) for wind power, solar energy, and electricity demand forecasting with weather models
+- Updated legacy code in Python 2 to Python 3 and automated analyses via ETL framework
+- Tools: Python, Docker, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+---
+### [Time Series Analysis of Factory Energy Management System](/sample_page)
 <!--  <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
-
+- Built statistical models (Autoregressive (AR), Moving Average (MA), ARMA) for energy demand forecasting
+- Created Sankey diagram in Python with Plotly to visualize the energy forecast
+- Tools: Python, StatsModels, Pandas, NumPy, Matplotlib, Scikit-learn, Plotly
 ---
 
 ## Personal Projects 
 
-### [What Contributes to the Success of Disney Movies?](https://minjeongcho1127.github.io/notebooks/Disney-Movies-and-Box-Office-Success-blog.html)
-<img src="images/disney_10by10.png?raw=true"/>
-
 ### [Predicting Credit Card Approvals](https://minjeongcho1127.github.io/notebooks/Predicting-Credit-Card-Approvals.html)
-<img src="images/credit_card_10by10.jpg?raw=true"/>
-
+<!-- <img src="images/credit_card_10by10.jpg?raw=true"/> -->
+---
+### [What Contributes to the Success of Disney Movies?](https://minjeongcho1127.github.io/notebooks/Disney-Movies-and-Box-Office-Success-blog.html)
+<!-- <img src="images/disney_10by10.png?raw=true"/> -->
+---
+### [Disaster Response Pipelines](https://github.com/minjeongcho1127/project-disaster-response)
+---
+### [Article Recommendations to the Users on the IBM Watson Studio platform](https://github.com/minjeongcho1127/project-recommendations-IBM)
 
 <!-- 
 ---
